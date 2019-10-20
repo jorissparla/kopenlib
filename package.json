@@ -1,6 +1,10 @@
 {
   "name": "kopenlib",
-  "version": "0.1.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorissparla/kopenlib.git"
+  },
+  "version": "0.1.3",
   "license": "MIT",
   "author": "Joris Sparla",
   "main": "dist/index.js",
